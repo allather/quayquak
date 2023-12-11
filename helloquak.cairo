@@ -1,3 +1,4 @@
+
 #[contract]
 mod Helloquak {
     use starknet::get_caller_address;
